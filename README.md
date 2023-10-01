@@ -1,10 +1,8 @@
 # Formula 1
 ETL project using Formula 1 data.
 
-### VERSION: 1.1 - December 2021
-
 ### OBJECTIVE
-This is an ETL project that has the purpose of get updated .CSV files from Kaggle, fix data and create a SQLite database.
+This is an ETL project that extracts Formula 1 data from Kaggle, makes data treatment and loads it into a SQLite database.
 
 ### DETAILS
 * Download_dataset.R - download files from Kaggle to the local machine.
